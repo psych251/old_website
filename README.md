@@ -1,5 +1,3 @@
-# Stanford Psych 251 - Lab in Experimental Methods
-
 ## Class Details
 
 Fall 2017
@@ -7,24 +5,28 @@ Meeting Days: Monday, Wednesday, Friday
 Meeting Times: 1:30PM - 2:50PM
 Meeting Places: 200-013
 
-All announcements will be posted to [psych251-aut1718@lists.stanford.edu](https://mailman.stanford.edu/mailman/listinfo/manybabies) (click to join).
+All announcements will be posted to [psych251-aut1718@lists.stanford.edu](https://mailman.stanford.edu/mailman/listinfo/psych251-aut21718) (click to join).
 
-Please send all correspondence to the teaching staff at *psych251-aut1718-staff (at) lists.stanford.edu*
+Please send all correspondence to the teaching staff at _psych251-aut1718-staff (at) lists.stanford.edu_.
 
 Instructor: Michael Frank
-*mcfrank (at) stanford (dot) edu*
+
+_mcfrank (at) stanford (dot) edu_
+
 Room 278, Jordan Hall
+
 Office Hours: by appointment here
 
 Teaching Assistants
+
 Ian Eisenberg
-*ieisenbe (at) stanford (dot) edu*
+_ieisenbe (at) stanford (dot) edu_
+
 Room 378, Jordan Hall
+
 Office Hours: by appointment here.
 
-## Course Overview
-
-### Course Goals
+## Course Goals
 
 Students completing Psych 254 will:
 
@@ -33,13 +35,13 @@ Students completing Psych 254 will:
 * Master best practices for experimental data management, storage, and analysis, and
 * Have a reproducible workflow for experimental data analysis and visualization, including comfort with a variety of R packages, including ggplot2, dplyr, tidyr, and `lmer`.
 
-### Pre-requisites
+## Pre-requisites
 
 This course is a requirement for incoming graduate students in the Psychology department. It will be taught in the `R` statistical programming language and will be vastly easier if you have some prior experience with the language.
 
 In addition, we will be relying heavily on version control using git and github. Please take a moment to set up a git account at https://github.com/, and to get it working on your computer before class starts.
 
-### Readings
+## Readings
 
 We will be using many of the techniques and workflows described in Hadley Wickham and Garrett Grolemund's book, [R for Data Scientists](http://r4ds.had.co.nz/), which is available free online. I highly recommend using it as a reference book.
 
@@ -49,11 +51,11 @@ Two other great books that we will refer to occasionally:
 
 * Rosenthal, R., & Rosnow, R. L. (2008). Essentials of behavioral research: Methods and data analysis (3rd ed.). McGraw-Hill.
 
-### Problem Sets
+## Problem Sets
 
 We will have a number of problem sets on data wrangling and data analysis using R. All of these will need to be written as literate, reproducible analyses using R Markdown, and compiled into HTML. All problem sets should be turned in to the course instructors list
 
-### Grading
+## Grading
 
 * 40%: Problem Sets (4 problem sets);
 * 50%: Final project components, including presentations, data collection, analysis, and writeup;
@@ -83,9 +85,3 @@ One-half grade will be subtracted from the assigned grade for each day any assig
 
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is made. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066, OAE website).
 Schedule:
-
-### References:
-
-Below you will find references for various skills we will be building in class and in problem sets.
-
-You can visit the file directly at this link. Please comment on this doc if you have found a resource that may be helpful to others. Thanks!
