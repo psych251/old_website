@@ -1,6 +1,12 @@
-*Please note that perhaps the best resource is Google for your particular question.  We’ve collected some links that we think will be helpful, but they are more like overviews than resources that will help you with a specific thing you are trying to accomplish.*
+---
+layout: page
+title: Resources
+---
 
-**_Table of Contents:_**
+<!-- Perhaps the best resource is Google for your particular question.   -->
+We’ve collected some links that we think will be helpful, but they are more like overviews than resources that will help you with a specific thing you are trying to accomplish.
+
+<!-- **_Table of Contents:_**
 
 * Mechanical turk
 * HTML/CSS
@@ -10,13 +16,13 @@
 * dplyr/tidyr
 * ggplot
 * lme4
-* Functional Experiment Templates
+* Functional Experiment Templates -->
 
 ### Mechanical turk
 
 In this class we will be running our replication projects on Amazon's Mechanical Turk (AMT/mTurk). mTurk is a platform on which **Workers** (or "Turkers") can complete Human Intelligence Tasks (**HITs**) for monetary compensation. HITs are put up by **Requesters**. mTurk originally was set up to do large-scale tasks that require human intelligence (e.g. labeling photos, finding telephone numbers, etc), but has recently been used by social scientists to conduct (large-scale) online experiments.
 
-In this class, all replication projects will be launched using a common class account. This saves you the hassle of applying for a personal Requester account (which lately has become not-as-straightforward...), and also simplifies funding logistics. We will be giving more detailed instructions in class on how to access the class account and launch HITs etc.
+All replication projects will be launched using a common class account. This saves you the hassle of applying for a personal Requester account (which lately has become not-as-straightforward...), and also simplifies funding logistics. We will be giving more detailed instructions in class on how to access the class account and launch HITs etc.
 
 **A note on design considerations.** Some Turkers multitask, and most of them do HITs for many hours a day, so appropriate designs would include attention checks, manipulation checks, etc.
 

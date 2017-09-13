@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Resources &middot; Lab in Experimental Methods
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="public/css/poole.css">
+  <link rel="stylesheet" href="public/css/syntax.css">
+  <link rel="stylesheet" href="public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="">
+          Lab in Experimental Methods
+        </a>
+      </h1>
+      <p class="lead">Stanford Psych 251, Fall 2017</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <!-- <a class="sidebar-nav-item" href="">Home</a> -->
+
+      
+
+      
+      
+        
+          
+        
+      
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="http://localhost:4000//">General Information</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="http://localhost:4000//policies.html">Policies</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="http://localhost:4000//problem_sets.html">Problem Sets</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="http://localhost:4000//project.html">Replication Project</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item active" href="http://localhost:4000//resources.html">Resources</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="http://localhost:4000//schedule.html">Schedule</a>
+          
+        
+      
+        
+      
+        
+      
+
+    </nav>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Resources</h1>
+  <!-- Perhaps the best resource is Google for your particular question.   -->
+<p>We’ve collected some links that we think will be helpful, but they are more like overviews than resources that will help you with a specific thing you are trying to accomplish.</p>
+
+<!-- **_Table of Contents:_**
+
+* Mechanical turk
+* HTML/CSS
+* JavaScript
+* Github
+* R
+* dplyr/tidyr
+* ggplot
+* lme4
+* Functional Experiment Templates -->
+
+<h3 id="mechanical-turk">Mechanical turk</h3>
+
+<p>In this class we will be running our replication projects on Amazon’s Mechanical Turk (AMT/mTurk). mTurk is a platform on which <strong>Workers</strong> (or “Turkers”) can complete Human Intelligence Tasks (<strong>HITs</strong>) for monetary compensation. HITs are put up by <strong>Requesters</strong>. mTurk originally was set up to do large-scale tasks that require human intelligence (e.g. labeling photos, finding telephone numbers, etc), but has recently been used by social scientists to conduct (large-scale) online experiments.</p>
+
+<p>All replication projects will be launched using a common class account. This saves you the hassle of applying for a personal Requester account (which lately has become not-as-straightforward…), and also simplifies funding logistics. We will be giving more detailed instructions in class on how to access the class account and launch HITs etc.</p>
+
+<p><strong>A note on design considerations.</strong> Some Turkers multitask, and most of them do HITs for many hours a day, so appropriate designs would include attention checks, manipulation checks, etc.</p>
+
+<p><strong>A note on ethics.</strong> Note that Amazon workerIDs are actually tied to their (public) Amazon account, and thus constitute identifiable information. Thus, you should anonymize data by redacting workerIDs (and other identifiable information).</p>
+
+<p><strong>A note on best research practices.</strong> Do all analyses on anonymized data. (This is to prevent cases where others are unable to reproduce your analayses because it might rely somehow on identifiable information. If you start with anonymized data, your analyses would never use any of this information.)</p>
+
+<ul>
+  <li>
+    <p>Beginner:</p>
+
+    <ul>
+      <li>
+        <p><a href="https://www.google.com/url?q=http://pages.ucsd.edu/~tfeenstr/resources/mturkhowto.pdf&amp;sa=D&amp;ust=1452640774009000&amp;usg=AFQjCNEEsUw9MtJ9c2XtTxpKnWarDK9sOg">A gentle guide to MTurk</a></p>
+
+        <ul>
+          <li>A good place to start</li>
+        </ul>
+      </li>
+      <li>
+        <p><a href="https://docs.google.com/document/d/1MMdOvYl-rXkwAp68BdgKvGH-2rOXmIe8H9uL77GjoH8/edit?usp=sharing">Guide to Mturk basics</a></p>
+
+        <ul>
+          <li>Filled with lots of notes and tips (Thank you James/Jamil/Noah labs)</li>
+        </ul>
+      </li>
+      <li>
+        <p><a href="http://www.pbs.org/newshour/updates/inside-amazons-hidden-science-factory/">MTurkers are people</a> (&amp; the problem with common paradigms on MTurk)</p>
+      </li>
+      <li>
+        <p>Setting up simple experiments</p>
+
+        <ul>
+          <li>
+            <p><a href="https://requester.mturk.com/create/projects/new">Survey within MTurk platform</a></p>
+          </li>
+          <li>
+            <p><a href="http://research-tricks.blogspot.com/">Qualtrics Link</a></p>
+
+            <ul>
+              <li>My preferred method of directing turkers to Qualtrics</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Intermediate:</p>
+
+    <ul>
+      <li>
+        <p><a href="http://www.turkernation.com/">Turker Nation</a></p>
+
+        <ul>
+          <li>Discussion board for Turkers</li>
+        </ul>
+      </li>
+      <li>
+        <p><a href="https://github.com/ericnatsmith/Wilson-2014-just-think-replication">Creating a launch page to external site</a></p>
+
+        <ul>
+          <li>advantage is that your study is embedded within MTurk, then opens a full page window for your task when required. Note launcher.html and task.html are separate.</li>
+        </ul>
+      </li>
+      <li>
+        <p><a href="https://docs.google.com/presentation/d/1Y_lvecsOefCfkXkkrdFtW1GH-NkoZidKzKXqFVJaLH4/edit#slide=id.p">Getting around the ridiculous extra 20% fee for 9+ participants</a></p>
+
+        <ul>
+          <li><a href="https://requester.mturk.com/pricing">MTurk fee structure</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="htmlcss">HTML/CSS</h3>
+
+<ul>
+  <li>
+    <p>Beginner:</p>
+
+    <ul>
+      <li>
+        <p><a href="https://www.codecademy.com/learn/web">Interactive HTML/CSS Tutorial</a> (Code Academy)</p>
+
+        <ul>
+          <li>More structured course</li>
+        </ul>
+      </li>
+      <li>
+        <p><a href="http://www.w3schools.com/css/default.asp">Quick CSS-Specific Tutorial</a> (Learn Layout)</p>
+      </li>
+      <li>
+        <p><a href="http://www.w3schools.com/css/default.asp">CSS Reference</a> (w3 schools)</p>
+
+        <ul>
+          <li>Good resource with “Try it yourself” to see immediate output of code</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Intermediate:</p>
+
+    <ul>
+      <li>
+        <p><a href="https://www.codecademy.com/en/courses/advanced-css-positioning">CSS Positioning Tutorial</a> (Code Academy)</p>
+
+        <ul>
+          <li>Perhaps the most frustrating part of CSS</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Advanced</p>
+
+    <ul>
+      <li>
+        <p><a href="http://getbootstrap.com/">Bootstrap</a> (Not of the statistical sort)</p>
+
+        <ul>
+          <li>Generally better for creating full web-pages than one-off experiments, but can make introduction pages, survey websites etc. look good with minimal effort.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="javascript">JavaScript</h3>
+
+<ul>
+  <li>
+    <p>Beginner:</p>
+
+    <ul>
+      <li>
+        <p><a href="https://www.codecademy.com/learn/javascript">Interactive JavaScript Tutorial</a> (Code Academy)</p>
+      </li>
+      <li>
+        <p><a href="http://www.w3schools.com/js/">JavaScript Reference</a> (w3 schools)</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Intermediate:</p>
+
+    <ul>
+      <li>
+        <p>jQuery (tool for making web pages responsive)</p>
+
+        <ul>
+          <li>
+            <p><a href="https://www.codecademy.com/learn/jquery">Interactive JQuery Tutorial</a> (Code Academy)</p>
+          </li>
+          <li>
+            <p><a href="http://www.w3schools.com/jquery/">JQuery Reference </a></p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p><a href="http://docs.jspsych.org/">JSPsych</a></p>
+
+        <ul>
+          <li>Great resource if your experiment fits within your constraints- specifically created for web-based psych research, and works well with MTurk.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="github">Github</h3>
+
+<ul>
+  <li>
+    <p><a href="https://try.github.io/levels/1/challenges/1">Beginner GitHub Tutorial</a> (Try Git)</p>
+  </li>
+  <li>
+    <p><a href="https://www.codecademy.com/learn/learn-git">Intermediate GitHub Tutorial</a> (CodeAcademy)</p>
+  </li>
+  <li>
+    <p><a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf">Advanced Cheatsheet</a> (from official documentation)</p>
+  </li>
+</ul>
+
+<h3 id="r">R</h3>
+
+<ul>
+  <li>
+    <p>Beginner</p>
+
+    <ul>
+      <li>
+        <p><a href="http://tryr.codeschool.com/">Beginner R Tutorial</a> (Good place for basic start)</p>
+      </li>
+      <li>
+        <p><a href="http://r4ds.had.co.nz/">http://r4ds.had.co.nz/</a> (Intro + Ch. 1- Will get you most of the basic competencies)</p>
+      </li>
+      <li>
+        <p><a href="http://swirlstats.com/students.html">Swirl</a> (+ <a href="https://github.com/swirldev/swirl_courses">Github</a> repo) (Nice in R console learning)</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Intermediate/Advanced</p>
+
+    <ul>
+      <li>
+        <p>(See package-specific tutorials below)</p>
+      </li>
+      <li>
+        <p><a href="http://adv-r.had.co.nz/">http://adv-r.had.co.nz/</a> (Great resource for those honing R skills)</p>
+      </li>
+      <li>
+        <p><a href="http://www.burns-stat.com/pages/Tutor/R_inferno.pdf">Advanced guide to R’s many quirks</a> (note: this is just for fun!)</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Everything else (because the needs are so diverse)</p>
+
+    <ul>
+      <li><a href="http://www.google.com">www.google.com</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="dplyrtidyr">dplyr/tidyr</h3>
+
+<ul>
+  <li>
+    <p>Beginner:</p>
+
+    <ul>
+      <li>
+        <p><a href="http://r4ds.had.co.nz/wrangle-intro.html">http://r4ds.had.co.nz/wrangle-intro.html</a></p>
+      </li>
+      <li>
+        <p><a href="https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf">dplyr Cheat sheet</a></p>
+      </li>
+      <li>
+        <p><a href="https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial">dplyr Tutorial</a></p>
+      </li>
+      <li>
+        <p>dplyr/tidyr tutorial in <a href="http://swirlstats.com/students.html">Swirl</a> (“Getting and Tidying Data”)</p>
+      </li>
+      <li>
+        <p><a href="http://vita.had.co.nz/papers/tidy-data.pdf">Why tidy data?</a></p>
+
+        <ul>
+          <li>Great way to understand purpose tidy data</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Everything else</p>
+
+    <ul>
+      <li><a href="https://www.google.com/#safe=off&amp;q=how+do+I+use+tidyr">https://www.google.com/#safe=off&amp;q=how+do+I+use+tidyr</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="ggplot">ggplot</h3>
+
+<ul>
+  <li>
+    <p>Beginner:</p>
+
+    <ul>
+      <li>
+        <p><a href="http://r4ds.had.co.nz/data-visualisation.html">http://r4ds.had.co.nz/data-visualisation.html</a></p>
+      </li>
+      <li>
+        <p><a href="http://www.r-bloggers.com/a-simple-introduction-to-the-graphing-philosophy-of-ggplot2/">Simple intro to ggplot basics</a></p>
+      </li>
+      <li>
+        <p><a href="http://www.cookbook-r.com/Graphs/">ggplot2 on Cookbook for R</a></p>
+      </li>
+      <li>
+        <p><a href="http://docs.ggplot2.org/0.9.3.1/">ggplot2 docs</a></p>
+
+        <ul>
+          <li>If you already know the kind of plot you want, they’ll usually have a load of nice examples to make it look right</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Everything else</p>
+
+    <ul>
+      <li><a href="https://www.google.com/#safe=off&amp;q=how+to+ggplot2">https://www.google.com/#safe=off&amp;q=how+to+ggplot2</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="lme4">lme4</h3>
+
+<ul>
+  <li>
+    <p>Intermediate</p>
+
+    <ul>
+      <li>
+        <p><a href="http://www.bodowinter.com/tutorial/bw_LME_tutorial2.pdf">Mixed effects models</a></p>
+
+        <ul>
+          <li>Good resource on why mixed effects models are beneficial and how to perform them in R</li>
+        </ul>
+      </li>
+      <li>
+        <p><a href="http://idiom.ucsd.edu/~rlevy/papers/barr-etal-2013-jml.pdf">Keep it maximal</a></p>
+
+        <ul>
+          <li>You don’t have to read the paper, but consider whether the maximal model is the model that makes the most sense.  How to make the maximal model.</li>
+        </ul>
+      </li>
+      <li>
+        <p><a href="http://www.rensenieuwenhuis.nl/r-sessions-16-multilevel-model-specification-lme4/">I understand mixed models - how do I set it up in lme4?</a></p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Advanced</p>
+
+    <ul>
+      <li><a href="http://lme4.r-forge.r-project.org/lMMwR/lrgprt.pdf">Nesting and a whole bunch of information on how to set up model</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="functional-experiment-templates">Functional Experiment Templates</h3>
+
+<p>Here are just a few templates tfhat may be helpful to build off of as you create your own online replications, with comments.</p>
+
+<p>Simpler</p>
+
+<p><a href="https://github.com/StanfordPsych254/jimorrisProject/tree/master/Projects/oed/experiment">Survey</a> (Similar to Qualtrics with basic functionality) (+ <a href="https://web.stanford.edu/~jimorris/Shah_2015_Rep/shahrep.html">PREVIEW</a>)</p>
+
+<ul>
+  <li>When you need to present stuff page by page and have people answer questions</li>
+</ul>
+
+<p><a href="http://longouyang.github.io/even-odd/docs/even-odd.html">Keypress Experiment based on Stimuli</a></p>
+
+<ul>
+  <li>When participants see stuff and respond (quickly or slowly)</li>
+</ul>
+
+<p>More Complex</p>
+
+<p><a href="https://github.com/longouyang/gradisar-ospan">Typing a list of things and Working Memory Task</a></p>
+
+<ul>
+  <li>Complex randomization of presenting stimuli and responding in a list to be automatically checked</li>
+</ul>
+
+<p><a href="https://expfactory.github.io/">A whole lot of common research tasks</a></p>
+
+<ul>
+  <li>Made by Stanford Psych Grad students - may require a few more tools (e.g. python), so users beware</li>
+</ul>
+
+</div>
+
+    </div>
+
+  </body>
+</html>
