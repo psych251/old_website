@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Lab in Experimental Methods
 description: Stanford Psych 251, Fall 2017
+url: http://psych251.github.io
+baseurl: /

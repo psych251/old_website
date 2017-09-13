@@ -5,7 +5,7 @@ title: General Information
 
 ## Meeting Information
 
-Monday, Wednesday, Friday (1:30PM - 2:50PM\\
+Monday, Wednesday, Friday (1:30PM - 2:50PM)\\
 Room 200-013
 
 ## Course Goals
