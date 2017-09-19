@@ -32,7 +32,7 @@ This whole week will be working through the `tidyverse` packages, specifically `
 *F: Consolidating Tidyverse Skills*
 In this section, we'll be working through additional data tidying practice.
 
-**Project proposal due Sunday** 
+**Project proposal due Sunday**
 
 ### Week 3 - October 9 - Experimental Design
 
@@ -96,17 +96,24 @@ We'll be having a discussion of replication-related issues, following the handou
 [Bornstein et al. (2010), A basic introduction](https://www.researchgate.net/profile/Hannah_Rothstein/publication/229923123_A_basic_introduction_to_fixed_and_random_effects_models_for_meta-analysis/links/09e415064ec4921207000000.pdf)\\
 [Scheibehenne et al. (2016), Bayesian Evidence Synthesis](http://journals.sagepub.com/doi/abs/10.1177/0956797616644081?journalCode=pssa)
 
+*W: Preregistration*
+
+*F: The P < .005 Debate*\\
+Background: [ASA statement on p-values](http://amstat.tandfonline.com/doi/abs/10.1080/00031305.2016.1154108)\\
+Pro: [Benjamin et al., Redefining statistical significance](https://osf.io/preprints/psyarxiv/mky9j/)\\
+Con: [Lakens et al., Justify your alpha](https://psyarxiv.com/9s3y6)
+
 ### Thanksgiving
 
 **Pilot A completed**
 
 ### Week 9 - 11/27 - Ethics
-We'll be following a handout [here](https://docs.google.com/document/d/1XbuBMqIOs0DV80EDs_FdiuhCRtv4mGqZb82kBc60-Yk/edit) to guide our discussion.
+We'll be following a handout [here](https://docs.google.com/document/d/1XbuBMqIOs0DV80EDs_FdiuhCRtv4mGqZb82kBc60-Yk/edit) to guide our discussion.\\
+Some useful background on authorship: [Fine & Kurdeck (1993), Authorship](https://drive.google.com/open?id=0B49TdRlL2Z3Ea3V4eXAxbVVTTE0&authuser=0)
 
 *M: Ethics Discussion, 1*
 
 *W: Ethics Discussion, 2*\\
-[Fine & Kurdeck (1993), Authorship](https://drive.google.com/open?id=0B49TdRlL2Z3Ea3V4eXAxbVVTTE0&authuser=0)
 
 *F: Project troubleshooting in class*
 

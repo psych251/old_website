@@ -15,7 +15,7 @@ Students completing Psych 254 will:
 * Be able to perform a psychology experiment on the web,
 * Be able to analyze a study in terms of reliability (e.g. power, statistical choices), and validity (e.g. design, sampling),
 * Master best practices for experimental data management, storage, and analysis, and
-* Have a reproducible workflow for experimental data analysis and visualization, including comfort with a variety of R packages, including ggplot2, dplyr, tidyr, and `lmer`.
+* Have a reproducible workflow for experimental data analysis and visualization, including comfort with a variety of `R` tools, especially those in the `tidyverse`.
 
 ## Contact Information
 
@@ -25,11 +25,9 @@ Please send all course-related email to: [psych251-aut1718-staff@lists.stanford.
 **Michael Frank (Instructor)** \\
 <!-- [mcfrank (at) stanford (dot) edu](mailto://mcfrank at stanford dot edu) -->
 Room 278, Jordan Hall\\
-Office Hours: by appointment here
+Office Hours: by appointment [here](http://mcfrank.youcanbook.me).
 
 **Ian Eisenberg (TA)**\\
-<!-- * [mcfrank (at) stanford (dot) edu](mailto://mcfrank at stanford dot edu)
-_ieisenbe (at) stanford (dot) edu_ -->
 Room XYZ, Jordan Hall\\
 Office Hours: by appointment here.
 

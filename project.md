@@ -3,14 +3,13 @@ layout: page
 title: Replication Project
 ---
 
-This course follows the model described in Frank & Saxe (2012) and Hawkins*, Smith* et al. (in press): we will be doing replications of recent published papers of interest in order to provide independent, converging evidence for the reproducibility of the scientific literature. The hope is that student projects will lead to broadly-useful knowledge about the viability of published results in an online context.
+This course follows the model described in Frank & Saxe (2012) and Hawkins, Smith et al. (in press): we will be doing replications of recent published papers of interest in order to provide independent, converging evidence for the reproducibility of the scientific literature. The hope is that student projects will lead to broadly-useful knowledge about the viability of published results in an online context.
 
 The final project for this course will be a high-quality, web-based replication of a single experiment from a published paper. Your goal will be a replication report, using the Open Science Collaboration replication template for the final writeup.
 
 **Final projects are due Friday 12/15.**
 
 ## Project Choice
-
 
 For your final project in Psych 251, most of you will be conducting a web-based replication of a result in experimental psychology. For those opting in to join the class meta-science project, this result must be from the journal Psychological Science in the year 2016. You can opt out of the class project as well, as discussed in class.  Non web-based replications as well as analysis reproductions are also possibilities, but please chat with us if you intend to do a project of this sort.
 
