@@ -41,6 +41,7 @@ In this section, we'll be working through additional data tidying practice.
 
 *W: Measurement, Reliability, and Validity*\\
 [Stevens (1946)](https://drive.google.com/open?id=0B49TdRlL2Z3EWnA0SU1VZHJpeW8&authuser=0)\\
+[Crohnbach & Meehl (1955), Construct Validity](https://marces.org/EDMS623/Cronbach%20LJ%20&%20Meehl%20PE%20(1955)%20Construct%20validity%20in%20psychological%20tests.pdf)\\
 [Krosnick & Presser (2010). Question and Questionnaire Design.](http://old-classes.design4complexity.com/7702-F13/survey-interviews/2010%20Handbook%20of%20Survey%20Research.pdf). This chapter is *the* resource for how to design individual questions in a questionnaire.
 
 *F: Experimental Design Practicum*
@@ -48,13 +49,15 @@ In this section, we'll be working through additional data tidying practice.
 **Problem Set 2 due Sunday**
 
 ### Week 4 - October 16 - Gathering Data
+Make sure you have an [MTurk](http://www.mturk.com) requester account before class on Wednesday. You can also check out [Prolific](https://www.prolific.ac/) for an alternative.
 
 *M: Sampling*\\
 [Rosenthal & Rosnow (1991), Sampling](https://drive.google.com/open?id=0B49TdRlL2Z3Ec1FSbExxYmhJTGs&authuser=0)
 
 *W: Experiments 1: MTurk* [[slides]](https://drive.google.com/file/d/0B49TdRlL2Z3EdDRlVDhlSVViZ28/view)\\
 We'll be making an experiment on Mechanical Turk.\\
-[Crump et al. (2013), Evaluating MTurk](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0057410)
+[Crump et al. (2013), Evaluating MTurk](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0057410)\\
+[Wired article](https://www.wired.com/story/amazons-turker-crowd-has-had-enough/)
 
 *F: Experiments 2: Implementation*\\
 If you are using JavaScript, you will be working through [this tutorial](https://docs.google.com/document/d/1adPa6r9duTVJesTIoEhvcyCDbHPPPzkIQ4tq01WEJ4s/pub).\\
@@ -113,7 +116,7 @@ Some useful background on authorship: [Fine & Kurdeck (1993), Authorship](https:
 
 *M: Ethics Discussion, 1*
 
-*W: Ethics Discussion, 2*\\
+*W: Ethics Discussion, 2*
 
 *F: Project troubleshooting in class*
 
