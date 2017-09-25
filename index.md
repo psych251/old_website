@@ -32,8 +32,8 @@ Room XYZ, Jordan Hall\\
 Office Hours: by appointment here.
 
 **Catherine Thomas (TA)**\\
-Room XYZ, Jordan Hall\\
-Office Hours: by appointment here.
+Room 250, Jordan Hall\\
+Office Hours: by appointment [here](http://ccthomas.youcanbook.me).
 
 ## Pre-requisites
 
