@@ -118,6 +118,8 @@ All replication projects will be launched using a common class account. This sav
 
 * [Advanced Cheatsheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) (from official documentation)
 
+* [Git for Windows](https://git-for-windows.github.io/)
+
 ### R
 
 * Beginner
