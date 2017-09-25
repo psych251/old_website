@@ -28,8 +28,8 @@ Room 278, Jordan Hall\\
 Office Hours: by appointment [here](http://mcfrank.youcanbook.me).
 
 **Ian Eisenberg (TA)**\\
-Room XYZ, Jordan Hall\\
-Office Hours: by appointment here.
+Room 326, Jordan Hall\\
+Office Hours: T 11-12, Th 11-2. Make an appointment [here](https://ianeisenberg90.youcanbook.me).
 
 **Catherine Thomas (TA)**\\
 Room 250, Jordan Hall\\
