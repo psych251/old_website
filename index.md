@@ -10,7 +10,7 @@ Room 200-013
 
 ## Course Goals
 
-Students completing Psych 254 will:
+Students completing Psych 251 will:
 
 * Be able to perform a psychology experiment on the web,
 * Be able to analyze a study in terms of reliability (e.g. power, statistical choices), and validity (e.g. design, sampling),
