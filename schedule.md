@@ -56,7 +56,8 @@ Make sure you have an [MTurk](http://www.mturk.com) requester account before cla
 [Rosenthal & Rosnow (1991), Sampling](https://drive.google.com/open?id=0B49TdRlL2Z3Ec1FSbExxYmhJTGs&authuser=0)
 
 *W: Experiments 1: MTurk* [[slides]](https://drive.google.com/file/d/0B49TdRlL2Z3EdDRlVDhlSVViZ28/view)\\
-We'll be making an experiment on Mechanical Turk.\\
+Tom Hardwicke will introduce Problem Set #3, on computational reproducibility.\\
+In class, we'll be making an experiment on Mechanical Turk.\\
 [Crump et al. (2013), Evaluating MTurk](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0057410)\\
 [Wired article](https://www.wired.com/story/amazons-turker-crowd-has-had-enough/)
 
