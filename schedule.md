@@ -9,7 +9,7 @@ The TAs will typically lead Friday classes, which will function as a review/skil
 
 ### Week 1 - September 25 - Introduction and Workflow
 
-*M: Introduction*\\
+*M: Introduction* - [slides](slides/1a-intro.pdf)\\
 [Frank & Saxe (2012): Teaching Replication](https://drive.google.com/open?id=0B49TdRlL2Z3EZnJnWHpWak5rRjg)\\
 [Hawkins et al. (in press): Improving the Replicability of Psychological Science Through Pedagogy](https://osf.io/preprints/psyarxiv/p73he/)
 
@@ -36,15 +36,16 @@ In this section, we'll be working through additional data tidying practice.
 
 ### Week 3 - October 9 - Experimental Design
 
-*M: Design of Experiments*\\
+*M: Design of Experiments* - [slides](slides/3a-design.pdf)\\
 [Rosenthal & Rosnow (1991). Design of Experiments](https://drive.google.com/open?id=0B49TdRlL2Z3Ecm5SV0hBWTdqb2s&authuser=0).
 
 *W: Measurement, Reliability, and Validity*\\
 [Stevens (1946)](https://drive.google.com/open?id=0B49TdRlL2Z3EWnA0SU1VZHJpeW8&authuser=0)\\
 [Crohnbach & Meehl (1955), Construct Validity](https://marces.org/EDMS623/Cronbach%20LJ%20&%20Meehl%20PE%20(1955)%20Construct%20validity%20in%20psychological%20tests.pdf)\\
-[Krosnick & Presser (2010). Question and Questionnaire Design.](http://old-classes.design4complexity.com/7702-F13/survey-interviews/2010%20Handbook%20of%20Survey%20Research.pdf). This chapter is *the* resource for how to design individual questions in a questionnaire.
+Optional: [Krosnick & Presser (2010). Question and Questionnaire Design.](http://old-classes.design4complexity.com/7702-F13/survey-interviews/2010%20Handbook%20of%20Survey%20Research.pdf) This chapter is *the* resource for how to design individual questions in a questionnaire.
 
-*F: Experimental Design Practicum*
+*F: Experimental Design Practicum*\\
+TAs will lead a discussion about design of experiments, reliability, and validity. 
 
 **Problem Set 2 due Sunday**
 
