@@ -10,7 +10,7 @@ Room 200-013
 
 ## Course Goals
 
-Students completing Psych 254 will:
+Students completing Psych 251 will:
 
 * Be able to perform a psychology experiment on the web,
 * Be able to analyze a study in terms of reliability (e.g. power, statistical choices), and validity (e.g. design, sampling),
@@ -29,7 +29,7 @@ Office Hours: by appointment [here](http://mcfrank.youcanbook.me).
 
 **Ian Eisenberg (TA)**\\
 Room 326, Jordan Hall\\
-Office Hours: T 11-12, Th 11-2. Make an appointment [here](https://ianeisenberg90.youcanbook.me).
+Office Hours: Make an appointment [here](https://ianeisenberg90.youcanbook.me).
 
 **Catherine Thomas (TA)**\\
 Room 250, Jordan Hall\\

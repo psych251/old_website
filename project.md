@@ -11,24 +11,32 @@ The final project for this course will be a high-quality, web-based replication 
 
 ## Project Choice
 
-For your final project in Psych 251, most of you will be conducting a web-based replication of a result in experimental psychology. For those opting in to join the class meta-science project, this result must be from the journal Psychological Science in the year 2016. You can opt out of the class project as well, as discussed in class.  Non web-based replications as well as analysis reproductions are also possibilities, but please chat with us if you intend to do a project of this sort.
+For your final project in Psych 251, you will be conducting a replication of a published experimental result. We would like this project to be a result that is related to your own research program: Conducting it should give you insight into the methods, analyses, and challenges involved in doing research on a topic of interest. But you should also make sure that the methods involved are appropriately challenging. This means not choosing a difficult, reaction-time based paradigm if you have never programmed in JavaScript; but it also means pushing beyond simple survey paradigms if you are a more experienced programmer.
 
-We would like this project to be a result that is related to your own research program: Conducting it should give you insight into the methods, analyses, and challenges involved in doing research on a topic of interest. But you should also make sure that the methods involved are appropriately challenging. This means not choosing a difficult, reaction-time based paradigm if you have never programmed in JavaScript; but it also means pushing beyond simple survey paradigms if you are a more experienced programmer.
+The default project for the course will be a web-based replication (using Amazon Mechanical Turk) of a result from the journal Psychological Science in the 2015 or 2016 volume. But you may deviate from this model (with justification) in a variety of ways:
 
-To complete this project proposal:
+* You may choose a paper outside of this sample if it is more relevant to your own work,
+* You may choose to use a non-Turk sample, e.g. Psych1 undergraduate participants or preschoolers at Bing Nursery School, and
+* You may choose to do a full reproduction of a complex analytic pipeline using existing data.
+
+Please chat with us if you intend to do a project of this sort.
+
+To complete your project proposal:
 * Choose a paper to replicate and one experiment from this paper.
 Establish a project repository in the class github organization with a name corresponding to your project’s shortcite (last name of first author)(year), e.g. smith2016.
 * Put the PDF in a directory called `original_paper` in your repository
-* Make a directory in your repository called `writeup.``
-* In that directory, put a markdown named `project_proposal.md` file.
+* Make a directory in your repository called `writeup.`
+* In that directory, put a markdown named `project_proposal.md` file. Use all the markdown formatting conventions that you learned in class.
 * Add a `.gitignore` file to ensure you don’t add future files that don’t need to be there (See example [here](https://docs.google.com/document/d/1m1i0gf_VrGGpQA6GqwIoyak_8cLj09syi7H93-Ivpgk/edit) and a brief overview in PS1 Section 7).
-* But oh no!  Now your `original_paper/Smith2016.pdf` isn’t showing up when you try to add it!  Update the `.gitignore` to say, “That one pdf is okay to commit”
+* But oh no!  Now your `original_paper/Smith2016.pdf` isn’t showing up when you try to add it!  Update the `.gitignore` to say, “That one pdf is okay to commit.”
 * Commit the repo.
 * Send a link to the instructor listserv. Put the link to your repo markdown file on github, so we can see the rendered version. Subject should be “Psych 251 Project Proposal.""
 
 Your project proposal should contain:
-* A short justification for your choice of experiment in terms of your research interests or research program (1 paragraph). This justification should tell us why you chose this particular result—this section is especially important if you are choosing a result outside of the list provided below.
+* A short justification for your choice of experiment in terms of your research interests or research program (1 paragraph). This justification should tell us why you chose this particular result -- this section is especially important if you are choosing a result outside of the standard.
 * A description of the stimuli and procedures that will be required to conduct this experiment, and what the challenges will be (1-2 paragraphs).
+
+If you have concerns about your project or aren't sure if it will be doable within the framework of the quarter, please talk to the instructor or a TA before the proposal is due!
 
 **Project proposals are due 10/8.**
 
