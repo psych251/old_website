@@ -23,9 +23,9 @@ This problem set will build `tidyverse` data-wrangling skills. The problem set i
 
 This problem set will be a contribution to a meta-science project led by Tom Hardwicke, investigating analytic reproducibility in the journal Psychological Science.
 
-Analytic reproducibility refers to the ability to obtain a published article's reported outcomes by re-running the reported analyses. This type of reproducibility is a minimum level of quality we would expect from any finding to be trustworthy and informative. How often are published psychology articles reproducible?
+Analytic reproducibility refers to the ability to obtain a published article's reported outcomes by re-running the reported analyses. This type of reproducibility is a minimum level of quality we would expect for any scientific finding to be trustworthy and informative. How often are published psychology articles reproducible?
 
-In practice it is often difficult to evaluate an article's analytic reproducibility because the raw data is not readily available. However, many journals have started to introduce 'open data' policies that encourage or mandate that raw data is made available in an online repository (like the OSF). In this Problem Set, we will capitalise on a corpus of raw datasets that have been made available for articles published in the journal Psychological Science as part of the 'Open Badges' scheme. In a previous project (Kidwell et al., 2016), we identified a number of datasets that are reusable in principle - now let's see if they are reusable in practice!
+In practice it is often difficult to evaluate an article's analytic reproducibility because the raw data is not readily available. However, many journals have started to introduce 'open data' policies that encourage or mandate that raw data is made available in an online repository (like the OSF). In this Problem Set, we will capitalise on the availability of a corpus of raw datasets released with articles published in the journal Psychological Science as part of the 'Open Badges' scheme. In a previous project (Kidwell et al., 2016), we identified a number of datasets that are reusable in principle - now let's see if they are reusable in practice!
 
 ### Step 1 Background reading
 Read the [pre-registered protocol](https://osf.io/tsymw/) for background on the project
