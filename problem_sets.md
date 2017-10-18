@@ -28,7 +28,7 @@ Analytic reproducibility refers to the ability to obtain a published article's r
 In practice it is often difficult to evaluate an article's analytic reproducibility because the raw data is not readily available. However, many journals have started to introduce 'open data' policies that encourage or mandate that raw data is made available in an online repository (like the OSF). In this Problem Set, we will capitalise on the availability of a corpus of raw datasets released with articles published in the journal Psychological Science as part of the 'Open Badges' scheme. In a previous project (Kidwell et al., 2016), we identified a number of datasets that are reusable in principle - now let's see if they are reusable in practice!
 
 ### Step 1 Background reading
-Read the [pre-registered protocol](https://osf.io/tsymw/) for background on the project
+Read the [pre-registered protocol](https://osf.io/t5x7f/) for background on the project
 
 ### Step 2 Identify your assigned articles and CARPS co-pilot
 
