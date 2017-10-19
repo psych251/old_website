@@ -101,7 +101,8 @@ We'll be having a discussion of replication-related issues, following the handou
 [Bornstein et al. (2010), A basic introduction](https://www.researchgate.net/profile/Hannah_Rothstein/publication/229923123_A_basic_introduction_to_fixed_and_random_effects_models_for_meta-analysis/links/09e415064ec4921207000000.pdf)\\
 [Scheibehenne et al. (2016), Bayesian Evidence Synthesis](http://journals.sagepub.com/doi/abs/10.1177/0956797616644081?journalCode=pssa)
 
-*W: Preregistration*
+*W: Preregistration*\\
+[Nosek et al. The preregistration revolution.](https://osf.io/2dxu5)
 
 *F: The P < .005 Debate*\\
 Background: [ASA statement on p-values](http://amstat.tandfonline.com/doi/abs/10.1080/00031305.2016.1154108)\\
