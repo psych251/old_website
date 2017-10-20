@@ -109,6 +109,14 @@ Background: [ASA statement on p-values](http://amstat.tandfonline.com/doi/abs/10
 Pro: [Benjamin et al., Redefining statistical significance](https://osf.io/preprints/psyarxiv/mky9j/)\\
 Con: [Lakens et al., Justify your alpha](https://psyarxiv.com/9s3y6)
 
+### Weeek 8 - 11/13 - Visualization and Exploratory Data Analysis
+
+*M: Visualization 1*
+
+*W: Visualization 2*
+
+*F: Exploratory Data Analysis Workshop*
+
 ### Thanksgiving
 
 **Pilot A completed**
