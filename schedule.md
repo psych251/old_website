@@ -66,6 +66,7 @@ If you are using JavaScript, you will be working through [this tutorial](https:/
 If you are using Qualtrics or another platform, you will be meeting with a separate group.
 
 ### Week 5 - October 23 - Statistical Approaches
+Notes for this week's class can be found [here](https://docs.google.com/document/d/1PtGp3TfaLfmAf7I03GIQJXE-M23DaaG8ATzdvvMtw_k/edit).
 
 *M: Statistical Approaches: Inference vs. Estimation*\\
 [Cumming (2013), The New Statistics](https://drive.google.com/file/d/0B49TdRlL2Z3EMUdObW1NYmYzcEU/view).\\
