@@ -39,7 +39,7 @@ In this section, we'll be working through additional data tidying practice.
 *M: Design of Experiments* - [slides](slides/3a-design.pdf)\\
 [Rosenthal & Rosnow (1991). Design of Experiments](https://drive.google.com/open?id=0B49TdRlL2Z3Ecm5SV0hBWTdqb2s&authuser=0).
 
-*W: Measurement, Reliability, and Validity* - [slides](slides/3b-measurement.pdf)\\
+*W: Measurement, Reliability, and Validity* - [slides](slides/3b-measures.pdf)\\
 [Stevens (1946)](https://drive.google.com/open?id=0B49TdRlL2Z3EWnA0SU1VZHJpeW8&authuser=0)\\
 [Crohnbach & Meehl (1955), Construct Validity](https://marces.org/EDMS623/Cronbach%20LJ%20&%20Meehl%20PE%20(1955)%20Construct%20validity%20in%20psychological%20tests.pdf)\\
 Optional: [Krosnick & Presser (2010). Question and Questionnaire Design.](http://old-classes.design4complexity.com/7702-F13/survey-interviews/2010%20Handbook%20of%20Survey%20Research.pdf) This chapter is *the* resource for how to design individual questions in a questionnaire.
@@ -55,7 +55,7 @@ Make sure you have an [MTurk](http://www.mturk.com) requester account before cla
 *M: Sampling* - [slides](slides/4a-sampling.pdf)\\
 [Rosenthal & Rosnow (1991), Sampling](https://drive.google.com/open?id=0B49TdRlL2Z3Ec1FSbExxYmhJTGs&authuser=0)
 
-*W: Experiments 1: MTurk* [[slides]](https://drive.google.com/file/d/0B49TdRlL2Z3EdDRlVDhlSVViZ28/view)\\
+*W: Experiments 1: MTurk* - [slides](https://drive.google.com/file/d/0B49TdRlL2Z3EdDRlVDhlSVViZ28/view)\\
 Tom Hardwicke will introduce Problem Set #3, on computational reproducibility.\\
 In class, we'll be making an experiment on Mechanical Turk.\\
 [Crump et al. (2013), Evaluating MTurk](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0057410)\\
