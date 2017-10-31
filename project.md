@@ -57,8 +57,14 @@ Remember, this is a good time to pose challenges to the class so you can get fee
 
 Please practice your presentation several times with a timer so that you know you can complete it in the allotted time.
 
-## Project Templates
+## Project Phases / Template
 
+Your project writeup must use the RPP [replication report](https://docs.google.com/document/d/1i_SaXaHCvix_7dujukefXzUG4qvVB6Vn59pL9ZVnb0g/edit) format. Please write this up as an Rmd and render it to RPubs for all submissions. 
+
+Phases of the project:
+* Pilot A: non-naive participants. Collect "data" from you and/or your friends to guarantee that you are logging data correctly. Code up your planned analyses and confirm that you can run them on your data. Posting on the MTurk Sandbox will help with this step if you're using cosub and javascript.
+* Pilot B: Live on Turk. You need TA approval to get here. They will distribute turk credentials, and the class gmail login so that you can monitor. Once you are at this step you can also write to your author and ask for paradigm feedback. 
+* Final data collection: You need approval from me AND your TA to go ahead and do this. You ALSO need to preregister your report. You'll do this by creating an OSF page for your project, link your github account including your replication report with the analyses, the planned N, etc. and then register the repository - thus, timestamping the whole thing. 
 
 ## Final Presentations
 
