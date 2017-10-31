@@ -19,7 +19,7 @@ Follow the steps in the [git tutorial](https://docs.google.com/document/d/1HSXY9
 
 This problem set will build `tidyverse` data-wrangling skills. The problem set is available in the [problem sets repository](https://github.com/psych251/problem_sets). Download it, fill in all the missing code (and narrative answers, where relevant). Then knit it and submit following the instructions above.
 
-## Problem Set 3 - Analytic Reproducibility (due 11/6)
+## Problem Set 3 - Analytic Reproducibility (due 11/5)
 
 This problem set will be a contribution to a meta-science project led by Tom Hardwicke, investigating analytic reproducibility in the journal Psychological Science.
 
