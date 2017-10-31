@@ -39,7 +39,7 @@ In this section, we'll be working through additional data tidying practice.
 *M: Design of Experiments* - [slides](slides/3a-design.pdf)\\
 [Rosenthal & Rosnow (1991). Design of Experiments](https://drive.google.com/open?id=0B49TdRlL2Z3Ecm5SV0hBWTdqb2s&authuser=0).
 
-*W: Measurement, Reliability, and Validity*\\
+*W: Measurement, Reliability, and Validity* - [slides](slides/3b-measurement.pdf)\\\\
 [Stevens (1946)](https://drive.google.com/open?id=0B49TdRlL2Z3EWnA0SU1VZHJpeW8&authuser=0)\\
 [Crohnbach & Meehl (1955), Construct Validity](https://marces.org/EDMS623/Cronbach%20LJ%20&%20Meehl%20PE%20(1955)%20Construct%20validity%20in%20psychological%20tests.pdf)\\
 Optional: [Krosnick & Presser (2010). Question and Questionnaire Design.](http://old-classes.design4complexity.com/7702-F13/survey-interviews/2010%20Handbook%20of%20Survey%20Research.pdf) This chapter is *the* resource for how to design individual questions in a questionnaire.
@@ -52,7 +52,7 @@ TAs will lead a discussion about design of experiments, reliability, and validit
 ### Week 4 - October 16 - Gathering Data
 Make sure you have an [MTurk](http://www.mturk.com) requester account before class on Wednesday. You can also check out [Prolific](https://www.prolific.ac/) for an alternative.
 
-*M: Sampling*\\
+*M: Sampling* - [slides](slides/4a-sampling.pdf)\\\\
 [Rosenthal & Rosnow (1991), Sampling](https://drive.google.com/open?id=0B49TdRlL2Z3Ec1FSbExxYmhJTGs&authuser=0)
 
 *W: Experiments 1: MTurk* [[slides]](https://drive.google.com/file/d/0B49TdRlL2Z3EdDRlVDhlSVViZ28/view)\\
@@ -76,23 +76,18 @@ Notes for this week's class can be found [here](https://docs.google.com/document
 [Cohen (1992), A Power Primer](https://drive.google.com/file/d/0B49TdRlL2Z3Edkhwd05ZUkpweTQ/view)\\
 We'll be using [G*Power](http://www.gpower.hhu.de/en.html), a software package for power analysis, as well.
 
-*F: Power Analysis Workshop*\\
-We'll be working through the power analyses for individual projects and figuring out together how to allocate course resources for data collection.
+*F: Power Analysis Workshop* - [slides](slides/5c-power.pdf)\\\\
+We'll be working through the power analyses for individual projects and figuring out together how to allocate course resources for data collection. Note that these slides also have some information about projects.
 
 ### Week 6 - October 30 - Midterm Presentations
 
 See Replication Project info page for information on how to prepare your presentations.
 
-*M: Midterm Presentations 1*
+*M: Power Analysis, continued*
 
+*W: Midterm Presentations 1*
 
-*W: Midterm Presentations 2*
-
-
-*F: Replication Discussion*\\
-[Meyer & Chabris (2014), Why Psychologists' Food Fight Matters](http://www.slate.com/articles/health_and_science/science/2014/07/replication_controversy_in_psychology_bullying_file_drawer_effect_blog_posts.html)\\
-[Frank (2014), Shifting Our Cultural Understanding of Replication](http://babieslearninglanguage.blogspot.com/2014/06/shifting-our-cultural-understanding-of.html)\\
-We'll be having a discussion of replication-related issues, following the handout [here](https://docs.google.com/document/d/16jCs8oVaUOG_O1l0T1BGMCXU6uNITjiOWqEsmmveLxc/edit).
+*F: Midterm Presentations 2* \\
 
 **Problem Set 3 due Sunday**
 
@@ -105,10 +100,11 @@ We'll be having a discussion of replication-related issues, following the handou
 *W: Preregistration*\\
 [Nosek et al. The preregistration revolution.](https://osf.io/2dxu5)
 
-*F: The P < .005 Debate*\\
-Background: [ASA statement on p-values](http://amstat.tandfonline.com/doi/abs/10.1080/00031305.2016.1154108)\\
-Pro: [Benjamin et al., Redefining statistical significance](https://osf.io/preprints/psyarxiv/mky9j/)\\
-Con: [Lakens et al., Justify your alpha](https://psyarxiv.com/9s3y6)
+*F: Replication Discussion*\\
+[Meyer & Chabris (2014), Why Psychologists' Food Fight Matters](http://www.slate.com/articles/health_and_science/science/2014/07/replication_controversy_in_psychology_bullying_file_drawer_effect_blog_posts.html)\\
+[Frank (2014), Shifting Our Cultural Understanding of Replication](http://babieslearninglanguage.blogspot.com/2014/06/shifting-our-cultural-understanding-of.html)\\
+We'll be having a discussion of replication-related issues, following the handout [here](https://docs.google.com/document/d/16jCs8oVaUOG_O1l0T1BGMCXU6uNITjiOWqEsmmveLxc/edit).\\
+Recent [Amy Cuddy NY Times Magazine piece](https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html).\\
 
 ### Weeek 8 - 11/13 - Visualization and Exploratory Data Analysis
 
