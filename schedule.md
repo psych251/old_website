@@ -87,18 +87,18 @@ See Replication Project info page for information on how to prepare your present
 
 *W: Midterm Presentations 1*
 
-*F: Midterm Presentations 2* \\
+*F: Midterm Presentations 2*
 
 **Problem Set 3 due Sunday**
 
 ### Week 7 - 11/6 - Improving Statistical Inferences
 
 *M: Meta-analysis*\\
-[Bornstein et al. (2010), A basic introduction](https://www.researchgate.net/profile/Hannah_Rothstein/publication/229923123_A_basic_introduction_to_fixed_and_random_effects_models_for_meta-analysis/links/09e415064ec4921207000000.pdf)\\
-[Scheibehenne et al. (2016), Bayesian Evidence Synthesis](http://journals.sagepub.com/doi/abs/10.1177/0956797616644081?journalCode=pssa)
+[Nosek et al. The preregistration revolution.](https://osf.io/2dxu5)
 
 *W: Preregistration*\\
-[Nosek et al. The preregistration revolution.](https://osf.io/2dxu5)
+[Bornstein et al. (2010), A basic introduction](https://www.researchgate.net/profile/Hannah_Rothstein/publication/229923123_A_basic_introduction_to_fixed_and_random_effects_models_for_meta-analysis/links/09e415064ec4921207000000.pdf)\\
+[Scheibehenne et al. (2016), Bayesian Evidence Synthesis](http://journals.sagepub.com/doi/abs/10.1177/0956797616644081?journalCode=pssa)
 
 *F: Replication Discussion*\\
 [Meyer & Chabris (2014), Why Psychologists' Food Fight Matters](http://www.slate.com/articles/health_and_science/science/2014/07/replication_controversy_in_psychology_bullying_file_drawer_effect_blog_posts.html)\\
@@ -107,10 +107,13 @@ We'll be having a discussion of replication-related issues, following the handou
 Recent [Amy Cuddy NY Times Magazine piece](https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html).
 
 ### Weeek 8 - 11/13 - Visualization and Exploratory Data Analysis
+We'll be using Kieran Healy's excellent new textbook draft, [Data Visualization for Social Scientists[http://socviz.co/]. 
 
-*M: Visualization 1*
+*M: Visualization 1*\\
+Healy Ch2, [Look at Data](http://socviz.co/lookatdata.html#lookatdata).
 
 *W: Visualization 2*
+Healy Ch3, [Make a Plot](http://socviz.co/makeplot.html#makeplot).
 
 *F: Exploratory Data Analysis Workshop*
 
