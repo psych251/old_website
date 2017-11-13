@@ -107,7 +107,7 @@ We'll be having a discussion of replication-related issues, following the handou
 Recent [Amy Cuddy NY Times Magazine piece](https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html).
 
 ### Weeek 8 - 11/13 - Visualization and Exploratory Data Analysis
-We'll be using Kieran Healy's excellent new textbook draft, [Data Visualization for Social Scientists[http://socviz.co/]. 
+We'll be using Kieran Healy's excellent new textbook draft, [Data Visualization for Social Scientists](http://socviz.co/). 
 
 *M: Visualization 1*\\
 Healy Ch2, [Look at Data](http://socviz.co/lookatdata.html#lookatdata).
