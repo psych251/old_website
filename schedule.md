@@ -93,10 +93,10 @@ See Replication Project info page for information on how to prepare your present
 
 ### Week 7 - 11/6 - Improving Statistical Inferences
 
-*M: Preregistration*\\
+*M: Preregistration* - [slides](slides/7a-preregistration.pdf)\\
 [Nosek et al. The preregistration revolution.](https://osf.io/2dxu5)
 
-*W: Meta-analysis*\\
+*W: Meta-analysis* - [slides](slides/7b-meta-analysis.pdf)\\
 [Bornstein et al. (2010), A basic introduction](https://www.researchgate.net/profile/Hannah_Rothstein/publication/229923123_A_basic_introduction_to_fixed_and_random_effects_models_for_meta-analysis/links/09e415064ec4921207000000.pdf)\\
 [Scheibehenne et al. (2016), Bayesian Evidence Synthesis](http://journals.sagepub.com/doi/abs/10.1177/0956797616644081?journalCode=pssa)
 
