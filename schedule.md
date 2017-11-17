@@ -117,9 +117,9 @@ Healy Ch3, [Make a Plot](http://socviz.co/makeplot.html#makeplot).
 
 *F: Exploratory Data Analysis Workshop*
 
-### Thanksgiving
+**Pilot A due Sunday or Thanksgiving at latest **
 
-**Pilot A completed**
+### Thanksgiving
 
 ### Week 9 - 11/27 - Ethics
 We'll be following a handout [here](https://docs.google.com/document/d/1XbuBMqIOs0DV80EDs_FdiuhCRtv4mGqZb82kBc60-Yk/edit) to guide our discussion.\\
