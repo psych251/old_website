@@ -59,19 +59,20 @@ Please practice your presentation several times with a timer so that you know yo
 
 ## Project Phases / Template
 
-Your project writeup must use the RPP [replication report](https://docs.google.com/document/d/1i_SaXaHCvix_7dujukefXzUG4qvVB6Vn59pL9ZVnb0g/edit) format. Please write this up as an Rmd and render it to RPubs for all submissions. 
+Your project writeup must use the RPP [replication report](https://docs.google.com/document/d/1i_SaXaHCvix_7dujukefXzUG4qvVB6Vn59pL9ZVnb0g/edit) format. Please write this up as an Rmd using [this template](https://drive.google.com/file/d/0ByYgo-oSCKlWT005c2p0Z0Y5Unc/view) and render it to RPubs for all submissions. 
 
 Phases of the project:
 * Pilot A: non-naive participants. Collect "data" from you and/or your friends to guarantee that you are logging data correctly. Code up your planned analyses and confirm that you can run them on your data. Posting on the MTurk Sandbox will help with this step if you're using cosub and javascript.
 * Pilot B: Live on Turk. You need TA approval to get here. They will distribute turk credentials, and the class gmail login so that you can monitor. Once you are at this step you can also write to your author and ask for paradigm feedback. 
 * Final data collection: You need approval from me AND your TA to go ahead and do this. You ALSO need to preregister your report. You'll do this by creating an OSF page for your project, link your github account including your replication report with the analyses, the planned N, etc. and then register the repository - thus, timestamping the whole thing. 
 
+As you prepare to turn in each pilot, please fill out the checklists in the tabs of the [project planning sheet](https://docs.google.com/spreadsheets/d/1dxDElfrBD7PRJNX6FnUy9w0ps1PglNwm9lbVx6VcDUU/edit#gid=1904341871).
+
 ## Final Presentations
 
 Final presentations will be 6 minutes plus 4 minutes for questions.
 
-Slides go in [this folder](https://drive.google.com/open?id=0B49TdRlL2Z3EbzVNc1RwTGlob00). They should be an update of what you've done before, with some of the intro compressed so you can share what you've learned via your piloting and (hopefully) what your results are.
-
+Slides go in [this folder](https://drive.google.com/open?id=0B49TdRlL2Z3EbzVNc1RwTGlob00). They should be an update of what you've done before, with some of the intro compressed so you can share what you've learned via your piloting and what your results are.
 
 ## Emailing for Materials
 
@@ -99,15 +100,15 @@ As with the previous email, please send a draft to the instructor team to be rev
 
 > Dear [Dr. / Professor / Title / etc.] Corresponding Author,
 >
-> [Thanks for your response earlier to my queries about the materials for your study, / I’m emailing about your study] "Title" in Author1 & Author2 (Year, Journal). I’m writing to share a mock-up of a replication of [Study 1a] as part of a graduate course, to see if you have any comments or concerns that you’d like to share.
+> [Thanks for your response earlier to my queries about the materials for your study, / I’m emailing about your study] "Title" in Author1 & Author2 (Year, Journal). I’m writing to share a mock-up of a replication of [Experiment XYZ] as part of a graduate course, to see if you have any comments or concerns that you’d like to share.
 >
-> Here’s a link. Any insights you have into details that differ from your own study would be much appreciated. [I will be piloting this paradigm in the next week, so I may also change some small details after collecting those data.]
+> Please feel no obligation to respond to this message; I know time is tight. I just wanted to be sure you had a chance to provide any comments if you wanted and that you were aware my study is going on. Due to the quick timeframe of our course, if you are able to provide feedback, it would be wonderful to receive it by [A WEEK LATER OR SUITABLE DATE], so I can incorporate your comments into the design and pre-registration.
+>
+> Here’s a link to my paradigm. Any insights you have into details that differ from your own study would be much appreciated. [I will be piloting this paradigm in the next week, so I may also change some small details after collecting those data.]
 >
 > [I’m interested in your findings because … , so I chose to do a direct replication of your study as part of a graduate course, Psych 254, "Laboratory Methods in Experimental Psychology" at Stanford. I will be replicating your experiment on Amazon Mechanical Turk (mturk.com). [I know this is a deviation from the original population you tested, and I will to note this sample decision prominently in the writeup.] As I am attempting as faithful a replication as possible, any advice or insights on experimental design that I might not gather from the original article [and supplement] would be very appreciated.]
 >
 > In addition, for my project, I need to preregister a “key statistical test” from your manuscript. The idea is that this is the test that most closely corresponds to the primary hypothesis. For your experiment, I chose [give test details, e.g. “the unpaired, two-tailed t test comparing the experimental and control groups”]. Please let me know if you think this is appropriate or if there is another test that you would consider closer to being the key one for your interpretation.
->
-> Of course, please feel no obligation to respond. I just wanted to be sure you had a chance to provide any comments if you wanted. Due to the quick timeframe of our course, it would be wonderful to get your feedback by [A WEEK LATER OR SUITABLE DATE], so I can incorporate your comments into the design and pre-registration.
 >
 > Thanks again,
 >
