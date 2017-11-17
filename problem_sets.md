@@ -41,6 +41,6 @@ Please follow the ["Reproducibility Checks Step By Step" guide](http://rpubs.com
 
 If you have any questions or encounter any issues please feel free to e-mail Tom (tom.hardwicke[@]stanford.edu).
 
-## Problem Set 4 - Visualization (due 11/27)
+## Problem Set 4 - Visualization (due 12/3)
 
 This problem set will aim to build visualization skills using `ggplot`.
