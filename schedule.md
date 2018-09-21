@@ -7,21 +7,21 @@ Please do readings prior to the class for which they are assigned.
 
 The TAs will typically lead Friday classes, which will function as a review/skill-building session.
 
-### Week 1 - September 25 - Introduction and Workflow
+### Week 1 - September 24 - Introduction and Workflow
 
 *M: Introduction* - [slides](slides/1a-intro.pdf)\\
 [Frank & Saxe (2012): Teaching Replication](https://drive.google.com/open?id=0B49TdRlL2Z3EZnJnWHpWak5rRjg)\\
 [Hawkins et al. (in press): Improving the Replicability of Psychological Science Through Pedagogy](https://osf.io/preprints/psyarxiv/p73he/)
 
 *W: Reproducible reports*\\
-We'll be working through this [RMarkdown workshop](https://github.com/mcfrank/rmarkdown-workshop)
+We'll be working through this [RMarkdown workshop](https://github.com/mcfrank/rmarkdown-workshop), learning to create reproducible reports.
 
 *F: Version control*\\
 We'll be walking through a [git tutorial](https://docs.google.com/document/d/1HSXY9LVoorPweLPBn5LkDUDSwA1ST_pGCkWxc47b_rw/edit), which you will then turn in as Problem Set 1.
 
 **Problem Set 1 due Sunday**
 
-### Week 2 - October 2 - Data Analysis
+### Week 2 - October 1 - Data Analysis
 
 This whole week will be working through the `tidyverse` packages, specifically `dplyr` and `tidyr`. We'll be using [this tutorial](https://github.com/mcfrank/2017-workshop-frank). The best reference for this material in longer form is Hadley Wickham and Garrett Grolemund's book, [R for Data Scientists (R4DS)](http://r4ds.had.co.nz/), which is available free online.
 
@@ -34,7 +34,7 @@ In this section, we'll be working through additional data tidying practice.
 
 **Project proposal due Sunday**
 
-### Week 3 - October 9 - Experimental Design
+### Week 3 - October 8 - Experimental Design
 
 *M: Design of Experiments* - [slides](slides/3a-design.pdf)\\
 [Rosenthal & Rosnow (1991). Design of Experiments](https://drive.google.com/open?id=0B49TdRlL2Z3Ecm5SV0hBWTdqb2s&authuser=0).
@@ -45,11 +45,11 @@ In this section, we'll be working through additional data tidying practice.
 Optional: [Krosnick & Presser (2010). Question and Questionnaire Design.](http://old-classes.design4complexity.com/7702-F13/survey-interviews/2010%20Handbook%20of%20Survey%20Research.pdf) This chapter is *the* resource for how to design individual questions in a questionnaire.
 
 *F: Experimental Design Practicum*\\
-TAs will lead a discussion about design of experiments, reliability, and validity. 
+TAs will lead a discussion about design of experiments, reliability, and validity.
 
 **Problem Set 2 due Sunday**
 
-### Week 4 - October 16 - Gathering Data
+### Week 4 - October 15 - Gathering Data
 Make sure you have an [MTurk](http://www.mturk.com) requester account before class on Wednesday. You can also check out [Prolific](https://www.prolific.ac/) for an alternative.
 
 *M: Sampling* - [slides](slides/4a-sampling.pdf)\\
@@ -65,7 +65,7 @@ In class, we'll be making an experiment on Mechanical Turk.\\
 If you are using JavaScript, you will be working through [this tutorial](https://docs.google.com/document/d/1adPa6r9duTVJesTIoEhvcyCDbHPPPzkIQ4tq01WEJ4s/pub).\\
 If you are using Qualtrics or another platform, you will be meeting with a separate group.
 
-### Week 5 - October 23 - Statistical Approaches
+### Week 5 - October 22 - Statistical Approaches
 Notes for this week's class can be found [here](https://docs.google.com/document/d/1PtGp3TfaLfmAf7I03GIQJXE-M23DaaG8ATzdvvMtw_k/edit).
 
 *M: Statistical Approaches: Inference vs. Estimation*\\
@@ -79,7 +79,7 @@ We'll be using [G*Power](http://www.gpower.hhu.de/en.html), a software package f
 *F: Power Analysis Workshop* - [slides](slides/5c-power.pdf)\\
 We'll be working through the power analyses for individual projects and figuring out together how to allocate course resources for data collection. Note that these slides also have some information about projects.
 
-### Week 6 - October 30 - Midterm Presentations
+### Week 6 - October 29 - Midterm Presentations
 
 See Replication Project info page for information on how to prepare your presentations.
 
@@ -91,7 +91,7 @@ See Replication Project info page for information on how to prepare your present
 
 **Problem Set 3 due Sunday**
 
-### Week 7 - 11/6 - Improving Statistical Inferences
+### Week 7 - November 5 - Improving Statistical Inferences
 
 *M: Preregistration* - [slides](slides/7a-preregistration.pdf)\\
 [Nosek et al. The preregistration revolution.](https://osf.io/2dxu5)
@@ -106,8 +106,9 @@ See Replication Project info page for information on how to prepare your present
 We'll be having a discussion of replication-related issues, following the handout [here](https://docs.google.com/document/d/16jCs8oVaUOG_O1l0T1BGMCXU6uNITjiOWqEsmmveLxc/edit).\\
 Recent [Amy Cuddy NY Times Magazine piece](https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html).
 
-### Weeek 8 - 11/13 - Visualization and Exploratory Data Analysis
-We'll be using Kieran Healy's excellent new textbook draft, [Data Visualization for Social Scientists](http://socviz.co/). 
+### Week 8 - November 12 - Visualization and Exploratory Data Analysis
+
+We'll be using Kieran Healy's excellent new textbook draft, [Data Visualization for Social Scientists](http://socviz.co/).
 
 *M: Visualization 1*\\
 Healy Ch2, [Look at Data](http://socviz.co/lookatdata.html#lookatdata).
@@ -117,11 +118,11 @@ Healy Ch3, [Make a Plot](http://socviz.co/makeplot.html#makeplot).
 
 *F: Exploratory Data Analysis Workshop*
 
-**Pilot A due Sunday or Thanksgiving at latest **
+**Pilot A due Sunday or Thanksgiving at latest**
 
-### Thanksgiving
+### Thanksgiving - November 19
 
-### Week 9 - 11/27 - Ethics
+### Week 9 - November 26 - Ethics
 We'll be following a handout [here](https://docs.google.com/document/d/1XbuBMqIOs0DV80EDs_FdiuhCRtv4mGqZb82kBc60-Yk/edit) to guide our discussion.\\
 Some useful background on authorship: [Fine & Kurdeck (1993), Authorship](https://drive.google.com/open?id=0B49TdRlL2Z3Ea3V4eXAxbVVTTE0&authuser=0)
 
@@ -133,7 +134,7 @@ Some useful background on authorship: [Fine & Kurdeck (1993), Authorship](https:
 
 **Problem Set 4 due Sunday**
 
-### Week 10 - 12/4 - Final Presentations
+### Week 10 - December 3 - Final Presentations
 
 See Replication Project info page for information on how to prepare your presentations.
 
@@ -143,4 +144,4 @@ See Replication Project info page for information on how to prepare your present
 
 *F: Final Project Presentations 2*
 
-**Final projects due Friday 12/15**
+**Final projects due Friday 12/14**
